@@ -56,6 +56,11 @@ p {
 
   #menu-sp {
     display: none;
+
+  }
+
+  #nav-sp {
+    display: none;
   }
 }
 
@@ -907,7 +912,7 @@ li {
     margin: 0;
   }
 
-  /* プロダクトページ */
+  /* プロダクトページ */f
   #product-main {
     height: 256px;
     width: 100%;
@@ -982,5 +987,4 @@ li {
     font-size: 28px;
     margin: 0;
   }
-
 }
